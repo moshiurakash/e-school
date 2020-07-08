@@ -1,0 +1,32 @@
+.bg-color{
+    background-color: #F0FFF0;
+}
+
+.text-color{
+    color: black;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.text-white{
+    color: white;
+    font-weight: 200;
+}
+.header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+button{
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    font-weight: 200;
+}
+h1{
+    font-weight: 700;
+}
+.text-red{
+    color: #FD511A;
+    margin-top: 30px;
+}
