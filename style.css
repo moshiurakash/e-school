@@ -1,3 +1,6 @@
+section{
+    margin-bottom: 20px;
+}
 .bg-color{
     background-color: #F0FFF0;
 }
@@ -30,3 +33,34 @@ h1{
     color: #FD511A;
     margin-top: 30px;
 }
+.box-info{
+        padding: 10px 10px;
+        text-align: center;
+        margin: 10px;
+        border-radius: 5px;
+        background-color: #F0FFF0 ;
+    }
+.box-info img{
+        display: block;
+        margin: 10px auto;
+    }
+.box-info:hover{
+    box-shadow: 10px 10px 20px gray;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    margin: 50px auto 30px auto;
+    font-weight: bold;
+}
+.card img{
+padding: 15px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+background-color: white;
+border-top: none;
